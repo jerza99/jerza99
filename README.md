@@ -1,11 +1,7 @@
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Jerzayl Balladares</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Hello 👋, I am Feryael Justice</h1>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
