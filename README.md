@@ -1,5 +1,20 @@
+
+
+
 # 💫 About Me:
 ¡Hola y Bienvenido a mi perfil de GitHub! <br><br>Soy un apasionado de la programación, con una pasión que se ha convertido en una verdadera vocación. Mi interés por el desarrollo web es profundo, impulsándome a buscar constantemente formas de profundizar en este campo. La idea de contribuir al mundo digital, creando soluciones innovadoras y eficientes, es lo que me motiva día a día. Mi trayectoria en programación ha sido un viaje de aprendizaje constante, donde cada proyecto es una oportunidad para crecer y aprender. La finalización de mi universidad me permite dar mis primeros pasos en el mundo laboral, pero lo que realmente me emociona es la posibilidad de aplicar mis conocimientos y habilidades para contribuir significativamente.<br><br>Estoy convencido de que mi disponibilidad para incorporarme de inmediato y mi disposición para cursar cualquier formación necesaria son ventajas clave. Estoy dispuesto a adaptarme a las necesidades del equipo y a aprender de los mejores. Valoro la formación continua y la importancia de mantenerse al día con las últimas tendencias y tecnologías. Me considero una persona autodidacta, siempre buscando nuevas formas de aprender y mejorar. Soy responsable, aplicado y perseverante, cualidades esenciales para tener éxito en la programación.<br><br>En resumen, mi pasión por la programación y el desarrollo web, junto con mi disposición para aprender y crecer, me hacen un candidato ideal para cualquier puesto en el campo. Estoy emocionado por la posibilidad de aplicar mis habilidades y conocimientos para hacer una diferencia positiva. Estoy comprometido con mi desarrollo profesional y ansioso por contribuir al crecimiento y éxito de cualquier equipo al que me uniré
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+  </ul>
+</div>
+
 
 
 # 💻 Tech Stack:
