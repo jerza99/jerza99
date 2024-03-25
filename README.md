@@ -60,7 +60,7 @@
 [![Netlify](https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)](#)
 
-#### Version Control
+### Version Control
 
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
