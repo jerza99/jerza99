@@ -19,14 +19,11 @@
 
 <hr>
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
++ I'm primarily a backend developer. 
++ I specialized in the field of computer engineering. 
++ My main programming language is PHP. 
++ I'm deeply interested in backend application development, focusing on creating robust and scalable solutions. 
++ I hope to collaborate on impactful projects.
 </pre>
 <hr>
 
@@ -43,7 +40,7 @@
 
 #### Frameworks
 
-[![Laravel](https://img.shields.io/badge/netlify%20-%23D80000%20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)](#)
+[![Laravel](https://img.shields.io/badge/Laravel%20-%23D80000%20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 
 ### Database
