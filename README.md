@@ -49,11 +49,19 @@ Me especializo en el desarrollo **Backend** con un enfoque fuerte en crear soluc
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerza99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jerzayl's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=jerza99&theme=tokyonight&hide_border=true" alt="Jerzayl's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerza99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerza99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerza99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jerza99&style=flat-square&color=4ade80&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
