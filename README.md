@@ -51,7 +51,7 @@ Me especializo en el desarrollo **Backend** con un enfoque fuerte en crear soluc
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerza99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jerzayl's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerza99&theme=tokyonight&hide_border=true" alt="Jerzayl's Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=jerza99&theme=tokyonight&hide_border=true" alt="Jerzayl's Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerza99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Langs" />
 </div>
@@ -72,5 +72,5 @@ Me especializo en el desarrollo **Backend** con un enfoque fuerte en crear soluc
 <br>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jerza99&icon=6&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=jerza99&style=flat-square&color=4ade80&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
